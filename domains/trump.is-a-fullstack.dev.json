@@ -1,0 +1,13 @@
+{
+    "description": "Trump's Fullstack Development Portfolio where we store important files and take care of business",
+    "domain": "is-a-fullstack.dev",
+    "subdomain": "trump",
+    "owner": {
+        "repo": "https://github.com/russell-henderson/register",
+        "email": "russellhenderson@my.unt.edu"
+    },
+    "record": {
+        "A": ["185.212.71.223"]
+    },
+    "proxied": false
+}
